@@ -1,0 +1,42 @@
+[
+  {
+    "name": "trip_id",
+    "type": "STRING"
+  },
+  {
+    "name": "subscriber_type",
+    "type": "STRING"
+  },
+  {
+    "name": "bike_id",
+    "type": "STRING"
+  },
+  {
+    "name": "bike_type",
+    "type": "STRING"
+  },
+  {
+    "name": "start_time",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "start_station_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "start_station_name",
+    "type": "STRING"
+  },
+  {
+    "name": "end_station_id",
+    "type": "STRING"
+  },
+  {
+    "name": "end_station_name",
+    "type": "STRING"
+  },
+  {
+    "name": "duration_minutes",
+    "type": "INTEGER"
+  }
+]
